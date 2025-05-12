@@ -1,3 +1,4 @@
 theme: minima
-- name: Current Time 2
-  uses: srfrnk/current-time@v1.1.0
+plugins:
+  - name: Current Time 2
+    uses: srfrnk/current-time@v1.1.0
